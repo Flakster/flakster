@@ -3,7 +3,7 @@
 [![Website Badge](https://img.shields.io/badge/-www.carlossantamaria.co-333333?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.carlossantamaria.co)](https://www.carlossantamaria.co)
 [![Twitter Badge](https://img.shields.io/badge/-@flakster-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/flakster)](https://twitter.com/flakster)
 
-I am a full stack developer trained to work in teams, to provide, as well as receive, feedback collaboratively and in a constructive manner,  with the ability to perform tasks and complete projects even with minimal supervision. Currently looking for new opportunities.
+I am a full stack developer trained to work in teams, to provide, as well as receive, feedback collaboratively and in a constructive manner,  with the ability to perform tasks and complete projects even with minimal supervision.
 
 ----
 
